@@ -9,4 +9,4 @@ Financial News Sentiment Analysis utilizes finBERT model from hugging face libra
 `requirements.txt` has all the libraries and their versions this application depends upon.
 
 The web application is hosted on Spaces by Huggingface.
-App: (https://huggingface.co/spaces/sushobhan55/finbert_finviz)https://huggingface.co/spaces/sushobhan55/finbert_finviz
+App: https://huggingface.co/spaces/sushobhan55/finbert_finviz
